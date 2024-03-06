@@ -1,0 +1,18 @@
+[
+    {
+        "city": "New York",
+        "number": 1
+    },
+    {
+        "city": "Amsterdam",
+        "number": 2
+    },
+    {
+        "city": "London",
+        "number": 3
+    },
+    {
+        "city": "Berlin",
+        "number": 4
+    }
+]
